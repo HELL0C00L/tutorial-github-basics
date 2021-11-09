@@ -232,7 +232,7 @@ GameObject:
   - component: {fileID: 403730623}
   - component: {fileID: 403730622}
   m_Layer: 0
-  m_Name: Bean
+  m_Name: Player
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
